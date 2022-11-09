@@ -14,8 +14,6 @@ import (
 )
 
 // put  get del
-//mian_1
-
 func main_1() {
 
 	cli, err := clientv3.New(clientv3.Config{
