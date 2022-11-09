@@ -14,10 +14,7 @@ import (
 )
 
 // put  get del
-<<<<<<< HEAD
-//mian——11111111111
-=======
->>>>>>> fda1da6512019bd81ebe5509ac12d3c321529287
+
 
 func main_1() {
 
