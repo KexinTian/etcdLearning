@@ -16,7 +16,7 @@ import (
 // put  get del
 //mian_1
 
-func main_1() {//mian_1
+func main_1() {//mian_122222222
 
 	cli, err := clientv3.New(clientv3.Config{
 		Endpoints:   []string{"127.0.0.1:2379"},
