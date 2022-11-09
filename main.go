@@ -18,7 +18,6 @@ import (
 
 func main_1() {
 
-	fmt.Printf("hello everyone!\n") //1111111
 	cli, err := clientv3.New(clientv3.Config{
 		Endpoints:   []string{"127.0.0.1:2379"},
 		DialTimeout: 5 * time.Second,
