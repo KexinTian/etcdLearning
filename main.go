@@ -14,7 +14,6 @@ import (
 )
 
 // put  get del
-//mian——1
 
 func main_1() {
 
